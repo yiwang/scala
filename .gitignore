@@ -1,0 +1,5 @@
+/bin
+/lift_sbt_prototype
+.*
+*.class
+!.gitignore
